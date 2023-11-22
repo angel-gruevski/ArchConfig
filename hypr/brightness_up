@@ -1,0 +1,4 @@
+#! /bin/bash
+brightness=$(cat /sys/class/backlight/amdgpu_bl1/brightness)
+brightness=$(($brightness+20))
+echo $brightness > /sys/class/backlight/amdgpu_bl1/brightness
