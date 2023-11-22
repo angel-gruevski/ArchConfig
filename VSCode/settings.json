@@ -1,0 +1,8 @@
+{
+   "terminal.integrated.gpuAcceleration": "on",
+   "editor.fontFamily": "JetBrainsMono",
+   "editor.fontSize": 15,
+   "editor.fontLigatures": true,
+   "terminal.integrated.fontFamily": "JetBrainsMono",
+   "terminal.integrated.fontSize": 15,
+}
